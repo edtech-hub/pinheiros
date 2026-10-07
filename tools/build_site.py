@@ -10,7 +10,7 @@ from urllib.parse import quote_plus
 
 # ---- CONFIG ----
 OUT = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else os.getcwd()
-BASE_URL = "https://pinheiroscleaning.whitephoenixconsulting.com/"
+BASE_URL = "https://pinheiros.whitephoenixconsulting.com/"
 NAME = "Pinheiro&rsquo;s Cleaning"
 PHONE = "(561) 929-0067"
 TEL = "+15619290067"
