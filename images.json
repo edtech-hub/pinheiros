@@ -1,0 +1,6 @@
+{ "src": "assets-src", "out": "assets/img",
+  "photos": { "hero": ["hero.webp", [800, 1280]], "residential": ["residential.webp", [600]], "commercial": ["commercial.webp", [600]],
+    "move": ["move.webp", [600]], "construction": ["construction.webp", [600]], "rental": ["rental.webp", [600]],
+    "details": ["details.webp", [980]], "palms": ["palms.webp", [980]], "carpet": ["carpet.webp", [980]] },
+  "favicon": "mark.webp",
+  "og": { "photo": "hero.webp", "title": "House and office cleaning", "subtitle": "Palm Beach County and Broward", "phone": "(561) 929-0067", "accent": "#e3b8d8" } }
